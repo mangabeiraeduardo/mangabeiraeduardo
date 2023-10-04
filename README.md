@@ -3,11 +3,11 @@
 ## Conecte-se comigo:
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardomangabeira/)
-[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangabeiraeduardo)
+
 
 ## GitHub Stats:
 
-![Eduardo Mangabeira GitHub stats](https://github-readme-stats.vercel.app/api?username=mangabeiraeduardo&show_icons=true&theme=dracula)
+![Eduardo Mangabeira GitHub stats](https://github-readme-stats.vercel.app/api?username=mangabeiraeduardo&show_icons=true&theme=dark)
 
 ## Principais skills:
 
@@ -24,7 +24,7 @@
 
 ## Linguagens mais usadas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangabeiraeduardo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangabeiraeduardo&layout=compact&theme=dark)
 
 <div align ="center">
 <br><p align="center"><b>Visitantes:</b></p> 
