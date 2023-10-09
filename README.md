@@ -5,10 +5,13 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardomangabeira/)
 
 
+
 ## GitHub Stats:
 
-![Eduardo Mangabeira GitHub stats](https://github-readme-stats.vercel.app/api?username=mangabeiraeduardo&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangabeiraeduardo&layout=compact&theme=dark)
+<a href="https://github.com/mangabeiraeduardo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mangabeiraeduardo&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mangabeiraeduardo&theme=dark&layout=dark" />
+</a>
 
 ## Principais Linguagens de Programação e Frameworks:
 
