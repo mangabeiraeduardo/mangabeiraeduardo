@@ -1,4 +1,4 @@
-## Olá! Meu nome é Eduardo Mangabeira, sou pós-graduando em Engenharia de Software pela PUC Minas, graduado em Análise e Desenvolvimento de Ssitemas pela UNIFACS e formado em Desenvolvimento Full Stack pelo DevClub.
+## Olá! Meu nome é Eduardo Mangabeira, sou pós-graduando em Engenharia de Software pela PUC Minas, graduado em Análise e Desenvolvimento de Sitemas pela UNIFACS e formado em Desenvolvimento Full Stack pelo DevClub.
 
 ## Conecte-se comigo:
 
