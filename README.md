@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mangabeiraeduardo&theme=dark&layout=dark" />
 </a>
 
-## Principais Linguagens de Programação e Frameworks:
+## Linguagens de Programação, Bibliotecas e Frameworks:
 
 <div style = "display: inline_block"><br/>
 <img align= "center" alt="html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
