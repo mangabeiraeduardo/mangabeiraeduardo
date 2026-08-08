@@ -91,18 +91,6 @@ Atualmente, busco evoluir continuamente minhas habilidades técnicas e transform
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-
-<a href="https://github.com/mangabeiraeduardo/DevBurger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mangabeiraeduardo&repo=DevBurger&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/mangabeiraeduardo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mangabeiraeduardo&repo=tradutor-devclub&theme=tokyonight" />
-</a>
-
-</div>
-
 ### 🍔 DevBurger
 
 Projeto Full Stack desenvolvido para simular uma aplicação de pedidos.
@@ -124,18 +112,6 @@ Aplicação de tradução desenvolvida com React, Vite e Tailwind CSS, utilizand
 Aplicação web para conversão de moedas desenvolvida com tecnologias fundamentais do Front-end.
 
 **Tecnologias:** HTML • CSS • JavaScript
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mangabeiraeduardo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangabeiraeduardo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
