@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2def9fd0-2678-421c-904a-86fd8bf7d634" />
+
+
 # 👨‍💻 Eduardo Mangabeira
 
 ### Analista de Sistemas | Desenvolvedor Full Stack
